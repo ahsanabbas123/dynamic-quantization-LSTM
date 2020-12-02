@@ -5,5 +5,5 @@ Achieving a 26.8% reduction in inference time on the test set with a 30% smaller
 ## Instructions to run notebook on colab  
 -- Click on Open in Colab Button at the top of notebook  
 -- Make folder 'wikitext-2' in colab present working directory <br>
--- Upload files present in the data folder in this repositor <br>
+-- Upload files present in the wikitext-2 folder in this repository <br>
 -- Run > Run All Cells  
